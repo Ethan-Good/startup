@@ -11,7 +11,7 @@ Tekken is one of the most difficult fighting games to learn. Each of the 30+ cha
 
 ### Design
 
-![Mock](mock.jpg)
+![Design](mock.jpg)
 
 ### Technologies
 
