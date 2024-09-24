@@ -7,7 +7,7 @@ startup application for CS 260
 
 ### Elevator pitch
 
-Tekken is one of the most difficult fighting games to learn. Each of the 30+ characters have more than 100 different moves, some even having 200. For a new player this amount of moves can be incredibly overwelming. This is where the Tekken Database comes in. On this website there will be gifs of the most important moves from each character and how to beat them. Users can login, select the character they are having trouble beating and learn their most common moves. Users can also add matchup specific advice for the character they play. Its the one stop shop for learning how to beat any character in Tekken 8.
+Tekken is one of the most difficult fighting games to learn. Each of the 30+ characters have more than 100 different moves, some even having 200. For a new player this amount of moves can be incredibly overwelming. This is where the Tekken Database comes in. On this website there will be images of the most important moves from each character and how to beat them. Users can login, select the character they are having trouble beating and learn their most common moves. Users can also add matchup specific advice for the character they play. Its the one stop shop for learning how to beat any character in Tekken 8.
 
 ### Design
 

@@ -23,3 +23,6 @@ p is a paragrapgh\
 table has a table\
 thead is the table head\
 ###### Footer
+## CSS
+Adds styles, fonts, sizing and many other styling options to html
+### 
