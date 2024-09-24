@@ -24,5 +24,27 @@ table has a table\
 thead is the table head\
 ###### Footer
 ## CSS
-Adds styles, fonts, sizing and many other styling options to html
-### 
+Adds styles, fonts, sizing and many other styling options to html/
+rules are added to elements of html. These rules are applied in cascading order/
+3 ways to style: main why is having a link to a css file that has the styling rules
+### Rules
+#### selector
+who the rule applys to in the html. like a paragraph tag "<p>", this would be an element/
+##### ID
+one thing that has a specific id
+##### Class
+a group of things in a class
+##### list
+multiple elements like body,section
+##### descendents
+sections that are in bodys is the example
+#### declaration
+the colon
+#### Property
+what aspect of the selector is being changed
+#### value
+what value of the property applied to the selector
+### animation
+name it, give it a duration, then define key frames using from->to and it will go from the begining to the end in the defined duration. you can define things during the from to by using percent like at 95% do this
+
+
