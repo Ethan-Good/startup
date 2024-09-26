@@ -37,7 +37,7 @@ a group of things in a class
 ##### list
 multiple elements like body,section
 ##### descendents
-sections that are in bodys is the example
+sections that are in bodys is the example. this would be written as->   body section
 #### declaration
 the colon
 #### Property
@@ -46,5 +46,16 @@ what aspect of the selector is being changed
 what value of the property applied to the selector
 ### animation
 name it, give it a duration, then define key frames using from->to and it will go from the begining to the end in the defined duration. you can define things during the from to by using percent like at 95% do this
-
-
+### media queries
+changing images and things depending on the size of the browser. use @media
+### float
+staying in a certain place with text
+#### padding
+amount of room in border i think
+#### margin
+spacing between the floating thing and text
+### grid
+### flex
+allows elements to be flexible when the window sizes is changed. This is done on the children of the element. 100vh means it takes up 100% of the viewfinder. a 0 after flex means that element wont flex and will remain the same size. 1 means it will flex and will take up 1 of the total pieces. For example if you had 1 and 3 then 1 would take up 1 fourth and 3 would take up 3 fourths. flex direction can be row or column. section:nth-child(1) would refer to the first section from top to bottom in the given parent.
+### frameworks
+things people have alreay made that you can use and put into ur css code
