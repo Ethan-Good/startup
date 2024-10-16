@@ -142,7 +142,7 @@ What HTML tag do you use to make text italic?
 What HTML tag do you use to make text bold?
 `<strong> or <b>`
 
-An HTML document should always be surrounded by an `<html>` tag
+An HTML document should always be surrounded by an `<html>` tag?
 true
 
 What is the CSS property that changes the font size of an element?
@@ -157,19 +157,19 @@ padding
 What is the CSS property that changes the amount of spacing between elements?
 margin
 
-How would you set the style of an element to use centered text instead of left justified? Include complete punctuation.
+How would you set the style of an element to use centered text instead of left justified? Include complete punctuation:
 text-align: center;
 
-How would you set the style of an element to float to the right? Include complete punctuation.
+How would you set the style of an element to float to the right? Include complete punctuation:
 float: right;
 
-How would you set the width of an element to be 100%? Include complete punctuation.
+How would you set the width of an element to be 100%? Include complete punctuation:
 width: 100%;
 
-How would you specify that a set of CSS properties applies to the following div: `<div id="content">`
+How would you specify that a set of CSS properties applies to the following div: `<div id="content">`?
 #content
 
-How would you specify that a set of CSS properties applies to the following div: `<div class="special">`
+How would you specify that a set of CSS properties applies to the following div: `<div class="special">`?
 .special
 
 What pseudo-selector would you add to an element to show a style when the mouse is over an element? Include the necessary punctuation.
