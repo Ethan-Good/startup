@@ -25,3 +25,13 @@ I am going to use the required technologies in the following ways.
   - submitting matchup advice
 - **DB/Login** - Store users and matchup advice in database. Register and login users. Can't add matchup advice unless authenticated.
 - **WebSocket** - As each user adds matchup advice, it will broadcast it all users.
+
+## HTML deliverable
+
+For this deliverable I coded the structure of my website using HTML.
+
+- **HTML pages** - I have 5 html pages. A home page where a user can login, an about page where they can learn about the website and 3 character pages.
+- **Links** - Each page has a header that has links to all the other pages.
+- **Text** - I have lots of text to teach people how the website works and information about character moves.
+- **Images** - I have several images including an icon on the tab at the top.
+- **DB/Login** - I have an input box and submit button for people to login.
