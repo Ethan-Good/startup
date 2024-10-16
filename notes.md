@@ -175,3 +175,13 @@ How would you specify that a set of CSS properties applies to the following div:
 What pseudo-selector would you add to an element to show a style when the mouse is over an element? Include the necessary punctuation.
 :hover
 
+Which HTML Tag would you use to create a numbered list?
+`<ol><li></li></ol>`
+
+How would you use CSS tochangeall the div elements to have a background color of blue?
+`div{
+background-color: lightblue;
+}`
+
+What is the correct HTML for creating a text hyperlink?
+`<a href="https://www.w3schools.com/html/">How to make a link</a>`
