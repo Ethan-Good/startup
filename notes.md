@@ -261,7 +261,7 @@ Example of while loop in javascript:
 `var i = 0;`
 `while (i < 10) {text += "<br>The number is " + i; i++;}`
 
-MouseEvents:
+MouseEvents:\
 onClick();\
 onMouseOut(); //when the user mouses over, or out of, an HTML object\
 onmousedown(), onmouseup(); //part of mouse-click\
