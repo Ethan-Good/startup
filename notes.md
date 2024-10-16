@@ -52,6 +52,7 @@ changing images and things depending on the size of the browser. use @media
 staying in a certain place with text
 #### padding
 amount of room in border i think
+first number is left and right, 2nd number is bottom and top
 #### margin
 spacing between the floating thing and text
 ### grid
@@ -59,3 +60,15 @@ spacing between the floating thing and text
 allows elements to be flexible when the window sizes is changed. This is done on the children of the element. 100vh means it takes up 100% of the viewfinder. a 0 after flex means that element wont flex and will remain the same size. 1 means it will flex and will take up 1 of the total pieces. For example if you had 1 and 3 then 1 would take up 1 fourth and 3 would take up 3 fourths. flex direction can be row or column. section:nth-child(1) would refer to the first section from top to bottom in the given parent.
 ### frameworks
 things people have alreay made that you can use and put into ur css code
+### styling
+add link to css file styling in html code
+## Java Script
+for behavior/computation. Java manipulates the DOM/
+browsers have an iterpreter usually called v8 that interprets java/
+there are Node.js servers on our website that are waiting for code/
+We add Java the same ways we added CSS/
+use %c to forat using css within Java/
+objects in Java are like maps but they are not iterable, use curly braces/
+arrays are square braces/
+### event handlers
+
