@@ -185,3 +185,87 @@ background-color: lightblue;
 
 What is the correct HTML for creating a text hyperlink?
 `<a href="https://www.w3schools.com/html/">How to make a link</a>`
+
+How would you display an image with a hyperlink in HTML?
+`<a href="default.asp"><img src="smiley.gif"></a>`
+
+What does the height attribute of a div element represent in pixels?
+Length in pixels
+
+How would you use CSS to change the font size for the p element with an id of "header"?
+#header{
+font-size: 250%
+}
+
+How would you use JavaScript to select all the p elements with an id of "header" and change their text color to red?
+document.getElemetByID("header").style.color = "red";
+
+What would you use in jQuery to select all p elements on the page?
+`$("p")`
+
+Create a new element and append it to the ul element:
+`$("#btn2").click(function(){`
+`$("ol").append("<li>Appended item</li>");`
+
+jQuery code snippet will select `<li class='source'> </li>` element and change the text to 'AP':
+`$(".source").text("AP");`
+
+code snippet will select all p elements and remove them?
+`$("p").remove();`
+
+Which jQuery code snippet will create a new h1 element with the text 'Breaking news' and prepend it to `<div class='article'>...</div>` element?
+`$(".article").append("<h1>Cool</h1>");`
+
+Which jQuery code snippet will select the ul element and add the class "attribution"?
+`$("ul").addClass("intro");`
+
+Which jQuery code snippet will select the `<p class="description">..</p>` and remove the class "description":
+`$("p").removeClass("description");`
+
+Which jQuery code will create a new li element with the class author and append it to?
+`$("ol").append("<li class='intro'>Appended item</li>");`
+
+Which jQuery code snippet will select the a element and change the text to "Read more"?
+`$(".source").text("Read More");`
+`$("#test").text("Read More");`
+
+Which jQuery code snippet will select the next sibling of the `<p class="description>.. </p> element`?
+`$(p.description).next()`
+
+Which jQuery code snippet will select the previous sibling of the ul element and change its text to "Breaking news"?
+`$("ul.ENTER_ID_HERE").prev().text("Breaking News");`
+
+What is Exactly is Mixed Content?
+HTTPS connection where the we page's source code is pulling in other resources with insecure HTTP protocol. The browser will display a warning sayign that hte page has both HTTPS and HTTP content
+
+What is Cross-origin resource sharing (CORS)?
+Mechanism that alllows restricted resources (ex: fonts, images, stylesheets, scripts, videos) to be requested from another domain outside the domain from which the first resrouce was served. Allows more freedom and functionality than purely same-origin requests, but is more secure than simply allowing all cross-origin requests
+
+What does the compiler do in the Angular JS runtime system?
+Parses and processes the new markup from the template. AngularJS's HTML compiler allows the developer to teach the browser new HTML syntax. The compiler allows you to attach behavior to any HTML element or attribute and even create new HTML elements or attributes with custom behavior. AngularJS calls these behavior extensions directives. compiler updates/stores the value from input ng- model directives. Replaces {{ x }} with teh evaluated value of the markup
+
+What is two-way data binding?
+Whenever the input values change, the value of the expressions are automatically recalculated and the DOM is updated with their values. The automatic synchronization of data between the model and view components lets you treat the model as a single-source-of-truth because the view is a projection of the model at all times
+
+What is dependency injection?
+Software design that dealts with how objects and functions get created and how they get a hold of their dependencies. The AngularJS injector subsystem is in charge of creating components, resolving their dependencies, and providing them to other components as requested. You can use it when definining components or when providing run and config blocks for a module
+
+How does scope interact with the controller and view in an Angular application?
+Anguar JS provides a scope for the variables accessible to expressions. Controllers expose variables and functionality to expressions and directives. Controlllers are responsible for the element with the directive, and all of the element's children. Angular instantiates teh controller and saves it in teh variable specified in the current scope. The binding is live.
+
+Example of for loop in Javascript:
+`var i;`
+`for (i = 0; i < cars.length; i++) {text += cars[i] + "<br>";}`
+
+Example of while loop in javascript:
+`var i = 0;`
+`while (i < 10) {text += "<br>The number is " + i; i++;}`
+
+MouseEvents:
+onClick();\
+onMouseOut(); //when the user mouses over, or out of, an HTML object\
+onmousedown(), onmouseup(); //part of mouse-click\
+dblclick()\
+hover()\
+mouseenter(); //when mouse enters an element
+
