@@ -253,13 +253,48 @@ Software design that dealts with how objects and functions get created and how t
 How does scope interact with the controller and view in an Angular application?
 Anguar JS provides a scope for the variables accessible to expressions. Controllers expose variables and functionality to expressions and directives. Controlllers are responsible for the element with the directive, and all of the element's children. Angular instantiates teh controller and saves it in teh variable specified in the current scope. The binding is live.
 
-Example of for loop in Javascript:
-`var i;`
-`for (i = 0; i < cars.length; i++) {text += cars[i] + "<br>";}`
+Example of for loop in Javascript:\
+`var i;`\
+`for (i = 0; i < cars.length; i++) {text += cars[i] + "<br>";}`\
+`for (var i = 0; i < 5; i++) { }`\
+`for (let i = 0; i < 5; i++) { }`
 
 Example of while loop in javascript:
 `var i = 0;`
 `while (i < 10) {text += "<br>The number is " + i; i++;}`
+
+What is valid syntax for a javascript if statement?
+`if (i === 10) { }`
+
+Which of the following are valid syntax for creating a function in JavaScript?\
+`a.execute = (x) => { }`\
+`const f = function(x) { }`\
+`function f(x) { }`
+
+What is the correct syntax for creating a javascript object?
+`let a = { number: 1 };`
+
+How do you access properties in a javascript object?
+`a.number`
+`a["number"]`
+
+Is it possible to add new properties to a javascript object at runtime?
+`squirrel = { hungry: true, sleeping: false };`
+`squirrel.hasEaten = false;`
+
+Which of these higher-order functions will execute a provided function once on each element in an array?
+forEach
+
+What is the correct JavaScript syntax to change the content of the HTML element?
+`document.getElementById("demo").innerHTML = "Hello World!";`
+
+What is JSON?
+JavaScript object notation. a server can use the JSON format to send a web browser some data. JSON objects contain attribute-value pairs
+
+How would you access a remote API using javascript?
+`fetch()`
+
+
 
 MouseEvents:\
 onClick();\
