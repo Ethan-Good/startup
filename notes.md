@@ -124,4 +124,9 @@ p {
 
 For everything in an HTML document there is a node in the DOM. This includes elements, attributes, text, comments, and whitespace. All of these nodes form a big tree, with the document node at the top.
 ## Midterm Review Notes
-Write the HTML needed to create a link, such that when the user clicks the words "my favorite store" they go to https://www.amazon.com: `<a href="https://www.amazon.com">my favorite store</a>`
+Write the HTML needed to create a link, such that when the user clicks the words "my favorite store" they go to https://www.amazon.com: 
+`<a href="https://www.amazon.com">my favorite store</a>`
+Write the HTML needed to create an image tag, where the image is stored at "/images/picture.png":
+`<img src="/images/picture.png" />`
+What is the HTML tag for an ordered list?
+`<ol>`
