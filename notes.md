@@ -256,7 +256,9 @@ Anguar JS provides a scope for the variables accessible to expressions. Controll
 Example of for loop in Javascript:\
 `var i;`\
 `for (i = 0; i < cars.length; i++) {text += cars[i] + "<br>";}`\
+or\
 `for (var i = 0; i < 5; i++) { }`\
+or\
 `for (let i = 0; i < 5; i++) { }`
 
 Example of while loop in javascript:
@@ -268,7 +270,9 @@ What is valid syntax for a javascript if statement?
 
 Which of the following are valid syntax for creating a function in JavaScript?\
 `a.execute = (x) => { }`\
+or\
 `const f = function(x) { }`\
+or\
 `function f(x) { }`
 
 What is the correct syntax for creating a javascript object?
