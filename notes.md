@@ -130,3 +130,37 @@ Write the HTML needed to create an image tag, where the image is stored at "/ima
 `<img src="/images/picture.png" />`\
 What is the HTML tag for an ordered list?\
 `<ol>`\
+What is the HTML tag for a second-level heading?/
+`<h2>`/
+What HTML tag do you use to make text italic?/
+`<em> or <i>`/
+What HTML tag do you use to make text bold?/
+`<strong> or <b>`/
+An HTML document should always be surrounded by an `<html>` tag/
+true/
+
+What is the CSS property that changes the font size of an element?/
+`font-size`/
+What is the CSS property that you can use to make text bold?/
+font-weight/
+What is the CSS property that changes the amount of spacing within an element?/
+padding/
+What is the CSS property that changes the amount of spacing between elements?/
+margin/
+How would you set the style of an element to use centered text instead of left justified? Include complete punctuation./
+text-align: center;/
+How would you set the style of an element to float to the right? Include complete punctuation./
+float: right;/
+How would you set the width of an element to be 100%? Include complete punctuation./
+width: 100%;/
+How would you specify that a set of CSS properties applies to the following div: `<div id="content">`/
+#content/
+How would you specify that a set of CSS properties applies to the following div: `<div class="special">`
+.special/
+What pseudo-selector would you add to an element to show a style when the mouse is over an element? Include the necessary punctuation./
+:hover/
+
+
+
+
+
