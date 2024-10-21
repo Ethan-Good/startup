@@ -7,7 +7,7 @@ body {
   header {
     flex: 0 80px;
   }
-  
+ 
   main {
     flex: 1 calc(100vh - 110px);
     display: flex;
@@ -42,8 +42,9 @@ body {
     align-items: colomn;
   }
 
-  .picture-box2 {
-    float: right
+  .picture-box {
+    float: right;
+    margin-right: 10px;
   }
 
   /* main .accordianExample{
