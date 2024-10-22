@@ -3,7 +3,10 @@ body {
     flex-direction: column;
     min-width: 375px;
   }
-  
+  p {
+    width: 80%;
+    font-size: 20px;
+  }
   header {
     flex: 0 80px;
   }
@@ -15,14 +18,9 @@ body {
     align-items: center;
     justify-content: space-around;
     color: black;
+    font-family: Sans-serif;
   }
-  /* #picture {
-    position:absolute;
-    right:0;
-    top:0;
-    float:right;
-    border-radius: 25px;
-  } */
+
   .divFloat {
     width: 50%;
   }
