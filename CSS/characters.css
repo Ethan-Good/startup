@@ -47,9 +47,9 @@ body {
     align-items: colomn;
   }
 
-  .picture-box {
+  img {
     float: right;
-    margin-right: 10px;
+    border-radius: 25px;
   }
 
   /* main .accordianExample{
