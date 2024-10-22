@@ -16,7 +16,16 @@ body {
     justify-content: space-around;
     color: black;
   }
-  
+  /* #picture {
+    position:absolute;
+    right:0;
+    top:0;
+    float:right;
+    border-radius: 25px;
+  } */
+  .divFloat {
+    width: 50%;
+  }
   
   footer {
     flex: 0 30px;
