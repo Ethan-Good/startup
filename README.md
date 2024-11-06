@@ -35,3 +35,14 @@ For this deliverable I coded the structure of my website using HTML.
 - **Text** - I have lots of text to teach people how the website works and information about character moves.
 - **Images** - I have several images including an icon on the tab at the top.
 - **DB/Login** - I have an input box and submit button for people to login.
+
+## CSS deliverable
+
+For this deliverable I styled my website into its final appearance.
+
+- **Header, footer, and main content body** - I made the header, footer and body a different color on the home page
+- **Navigation elements** - I made the navbar stick to the top to have more room on screen
+- **Responsive to window resizing** - My app looks great on all window sizes and devices
+- **Application elements** - Used good contrast and whitespace using margins
+- **Application text content** - Consistent fonts
+- **Application images** - I styled my pictures to have rounded edges and be spaced apart with padding
